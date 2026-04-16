@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.egg-info/
+.env
+
+# Django
+db.sqlite3
+media/
+chroma_db/
+
+# Node
+node_modules/
+dist/
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
