@@ -9,10 +9,13 @@ A full-stack AI-powered web application that scrapes books, generates insights u
 ## 📸 Screenshots
 
 > Add screenshots here after running the app:
-> 1. `docs/dashboard.png` — Book listing page
-> 2. `docs/book-detail.png` — Book detail with AI insights
-> 3. `docs/qa-interface.png` — AI Q&A chat interface
-> 4. `docs/scrape-modal.png` — Scrape books modal
+> 1. <img width="1920" height="1080" alt="Screenshot 2026-04-16 073201" src="https://github.com/user-attachments/assets/23d22eeb-fb88-4e97-befe-f9e67e611739" />
+` — Book listing page
+> 2. <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6747c7b1-2666-4609-a245-77d96a7a01b1" /> — Book detail with AI insights
+> 3. <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8762d12e-4130-40fb-90dc-e25c38ed9776" />
+ — AI Q&A chat interface
+> 4. <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07a559ee-eafc-4fec-8840-88bc9cd2d987" />
+ — Scrape books modal
 
 ---
 
